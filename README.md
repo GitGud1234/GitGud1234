@@ -1,6 +1,4 @@
-# Hi there! 
-
-2024 will be the year I become a Front End Developer / Software Engineer and make a difference in the world
+# Front-End Developer / Software Engineer
 
  ### ✅ Skills I am Currently Learning:
 [![My Skills](https://skillicons.dev/icons?i=react,materialui,redux,ts,js,nodejs,vite)](https://skillicons.dev)
