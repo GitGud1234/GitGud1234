@@ -1,4 +1,4 @@
-# Front-End Developer / Software Engineer
+# Aspiring Front-End Developer / Software Engineer
 
  ### ✅ Skills I am Currently Learning:
 [![My Skills](https://skillicons.dev/icons?i=react,materialui,redux,ts,js,nodejs,vite)](https://skillicons.dev)
