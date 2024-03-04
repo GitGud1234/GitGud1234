@@ -1,15 +1,21 @@
-<h1>Hi there 👋</h1>
-<h3>2024 will be the year I become a Front End Developer / Software Engineer!</h3>
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=gitgud1234&show_icons=true&locale=en&layout=compact" alt="gitgud1234" /></p>
-  
+# Hi there! 
 
- ### ✅ Skills 
+2024 will be the year I become a Front End Developer / Software Engineer and make a difference in the world
+
+ ### ✅ Skills I am Currently Learning:
 [![My Skills](https://skillicons.dev/icons?i=react,materialui,redux,ts,js,nodejs,vite)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,jquery,figma)](https://skillicons.dev)
-  
- ### 📈 Interested in Learning
+
+#
+
+ ### 📈 Future Learning:
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,cs,dotnet,docker,php,postgres,vue,firebase)](https://skillicons.dev)
+
+# 
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=gitgud1234&show_icons=true&locale=en&layout=compact" alt="gitgud1234" />
+
 <!--
 **GitGud1234/GitGud1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
