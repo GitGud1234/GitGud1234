@@ -8,7 +8,9 @@
 #
 
  ### 📈 Future Learning:
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,cs,dotnet,docker,php,postgres,vue,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,cs,dotnet,docker,php,postgres)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vue,firebase,next,express,nginx,python,mongodb)](https://skillicons.dev)
 
 # 
 
