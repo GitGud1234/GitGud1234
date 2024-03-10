@@ -10,7 +10,7 @@
  ### 📈 Future Learning:
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,cs,dotnet,docker,php,postgres)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vue,firebase,,express,nginx,python,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,firebase,express,nginx,python,mongodb)](https://skillicons.dev)
 
 # 
 
