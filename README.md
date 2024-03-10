@@ -1,7 +1,7 @@
 # Aspiring Front-End Developer / Software Engineer
 
  ### ✅ Skills I am Currently Learning:
-[![My Skills](https://skillicons.dev/icons?i=react,materialui,redux,ts,js,nodejs,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,materialui,redux,ts,js,nodejs,next)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,jquery,figma)](https://skillicons.dev)
 
@@ -10,7 +10,7 @@
  ### 📈 Future Learning:
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,cs,dotnet,docker,php,postgres)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vue,firebase,next,express,nginx,python,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,firebase,,express,nginx,python,mongodb)](https://skillicons.dev)
 
 # 
 
